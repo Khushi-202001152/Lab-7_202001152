@@ -1,2 +1,1 @@
-# Lab-7_202001152
-Lab 7 - Software Engineering
+# Lab 7 : Testing - White box & Black box testing
